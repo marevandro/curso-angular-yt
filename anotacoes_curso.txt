@@ -1,0 +1,3 @@
+Curso: https://www.youtube.com/watch?v=1pad3p8VOu4&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw&index=2
+
+GitHub: https://github.com/matheusbattisti/curso_angular_yt
